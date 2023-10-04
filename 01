@@ -1,0 +1,15 @@
+{"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
+{"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
+{"key":"drpy_js_量子影视","name":"影视 | 量子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/量子影视.js"},
+{"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/达达龟.js"},
+{"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TVB云播.js"},
+{
+      "key": "快帆",
+      "name": "快帆",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+{"key":"drpy_js_58动漫","name":"动漫 | 58动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
+{"key":"drpy_js_异世界动漫漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
